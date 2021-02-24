@@ -1,15 +1,12 @@
 ### Hi I'm Aubrey 👋
 
-<!--
-**awwwberry/awwwberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## In short, Tech Enthusiat with passion for Public Health 
 - 🔭 I’m currently working on - Kaggle Projects
 - 🌱 I’m currently learning - Python
 - 👯 I’m looking to collaborate with - Other developers in the community 
 - 🤔 I’m looking for help with - EHR data
 - 🥅 2021 Goal - Land my dream job
-- 💬 Ask me about - Food Sustainability market in China
+- 💬 Ask me about - Food Sustainability in China
 - ⚡ Fun fact: I speak Mandarin chinese. 
 
 [![Aubrey's github stats](https://github-readme-stats.vercel.app/api?username=awwwberry&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
