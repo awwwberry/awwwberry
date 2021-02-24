@@ -1,6 +1,6 @@
-### Hi I'm Aubrey 👋
+## Hi I'm Aubrey 👋
 
-## In short, Tech Enthusiat with passion for Public Health 
+## In short, Tech Enthusiast with passion for Public Health 
 - 🔭 I’m currently working on - Kaggle Projects
 - 🌱 I’m currently learning - Python
 - 👯 I’m looking to collaborate with - Other developers in the community 
